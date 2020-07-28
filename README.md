@@ -1,2 +1,5 @@
-# wordpress_reverse_proxy
-wordpressコンテナをリバースプロキシ
+## wordpressコンテナをリバースプロキシ
+
+```
+wordpress/www/htmlにワードプレスのファイルを配置する
+```
